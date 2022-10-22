@@ -9,5 +9,8 @@
   },
   "devDependencies": {
     "turbo": "^1.5.6"
+  },
+  "dependencies": {
+    "phosphor-react": "^1.4.1"
   }
 }
