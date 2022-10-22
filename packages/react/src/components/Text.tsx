@@ -4,7 +4,7 @@ import { styled } from '../styles'
 export const Text = styled('p', {
   fontFamily: '$default',
   lineHeight: '$base',
-  maring: 0,
+  margin: 0,
   color: '$gray100',
 
   variants: {
